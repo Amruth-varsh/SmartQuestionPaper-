@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250845491438",
+    "project_id": "snaplearn-bdd69",
+    "storage_bucket": "snaplearn-bdd69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250845491438:android:a47e38c52c8f7ce65c83ff",
+        "android_client_info": {
+          "package_name": "com.example.text_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYSnOr-KBgCakZpea-cAproHyUsl3p6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
